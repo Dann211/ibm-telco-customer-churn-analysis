@@ -44,6 +44,8 @@ Overall Churn
 💸 Pricing
 - Churned customers have higher monthly charges on average.
 - Higher prices increase churn risk, particularly when not paired with long-term contracts or high-value services.
+- <img width="616" height="469" alt="image" src="https://github.com/user-attachments/assets/e8fe0b86-ae82-4754-81be-e3479e22c580" />
+
 
 📅 Tenure
 - Churn is heavily concentrated in the first year:
